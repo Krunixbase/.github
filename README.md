@@ -1,4 +1,4 @@
-(https://img.shields.io/badge/Python-3.x-blue
+https://img.shields.io/badge/Python-3.x-blue
 https://img.shields.io/badge/Rust-Stable-orange
 https://img.shields.io/badge/Focus-Security-green
 https://img.shields.io/badge/Open%20Source-Yes-brightgreen
@@ -203,4 +203,3 @@ Built around determinism, security and digital sovereignty.
 </div>
 
 ---
-)

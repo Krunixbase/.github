@@ -36,8 +36,14 @@ https://github.com/orgs/krunixbase/discussions
 
 ## Mission
 
-Krunixbase develops deterministic and auditable security software for
-high-risk users, researchers, organizations and digital sovereignty projects.
+## Mission
+
+Krunixbase develops deterministic security infrastructure focused on
+cryptographic recovery, Shamir Secret Sharing validation,
+reproducible workflows and privacy-first tooling.
+
+Our mission is to build auditable and deterministic software
+for individuals and organizations operating in adversarial environments.
 
 Our focus is simple:
 
@@ -51,6 +57,18 @@ Our focus is simple:
 
 Every component is designed around transparency, auditability and
 reproducibility.
+
+---
+
+## Core Projects
+
+| Project | Description |
+|----------|-------------|
+| SeedTools | Deterministic toolkit for seed recovery and crypto forensics |
+| Shamir App | Audit-ready Shamir Secret Sharing platform |
+| Transcribe Assistant | Offline speech-to-text with zero telemetry |
+| Deterministic Signing Episodes | Research and implementation of deterministic signing models |
+| Agent AI Lab | Laboratory for AI agents and autonomous workflows |
 
 ---
 

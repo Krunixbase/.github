@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krunixbase/Krunixbase-Icon-Pack/main/icons/svg/krunixbase_logo_dark_green.svg" width="250">
+  <img src="https://raw.githubusercontent.com/Krunixbase/.github/main/profile/assets/krunixbase_logo_dark_green.png" width="250" >
 </p>
 
 <p align="center">

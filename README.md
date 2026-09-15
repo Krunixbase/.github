@@ -1,10 +1,23 @@
-https://img.shields.io/badge/Python-3.x-blue
-https://img.shields.io/badge/Rust-Stable-orange
-https://img.shields.io/badge/Focus-Security-green
-https://img.shields.io/badge/Open%20Source-Yes-brightgreen
-https://img.shields.io/badge/Architecture-Deterministic-success
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krunixbase/Krunixbase-Icon-Pack/main/icons/svg/krunixbase_logo_dark_green.svg" />
+</p>
 
-# Krunixbase
+<h1 align="center">Krunixbase</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cryptography-Research-00C853">
+  <img src="https://img.shields.io/badge/Shamir-SSS-00C853">
+  <img src="https://img.shields.io/badge/SeedTools-Active-2962FF">
+  <img src="https://img.shields.io/badge/Rust-Security-orange">
+  <img src="https://img.shields.io/badge/Python-Tooling-blue">
+  <img src="https://img.shields.io/badge/Open_Source-MIT-success">
+</p>
+
+<p align="center">
+Deterministic Security Infrastructure
+</p>
+
+---
 
 ### Deterministic Security Infrastructure
 
@@ -14,8 +27,6 @@ compliance automation, AI tooling and reproducible security systems.
 https://github.com/krunixbase/seedtools •
 https://github.com/krunixbase •
 https://github.com/orgs/krunixbase/discussions
-
-</div>
 
 ---
 

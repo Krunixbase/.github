@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krunixbase/Krunixbase-Icon-Pack/main/icons/svg/krunixbase_logo_dark_green.svg" />
+  <img src="https://raw.githubusercontent.com/Krunixbase/Krunixbase-Icon-Pack/main/icons/svg/krunixbase_logo_dark_green.svg" width="250">
+</p>
+
+<p align="center">
+Modular cryptography, seed recovery, Shamir Secret Sharing and deterministic security tooling.
 </p>
 
 <h1 align="center">Krunixbase</h1>
@@ -50,7 +54,7 @@ reproducibility.
 
 ---
 
-## Core Projects
+## Flagship Project
 
 ### SeedTools
 
@@ -58,10 +62,9 @@ Offline deterministic toolkit for:
 
 - Seed recovery
 - Entropy analysis
-- Wallet verification
 - Crypto forensics
-- NGO verification workflows
 - Compliance automation
+- NGO verification workflows
 
 Repository:
 

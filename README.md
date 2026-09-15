@@ -187,6 +187,14 @@ the foundation for deterministic security infrastructure.
 Several projects are currently under active development and subject
 to rapid iteration.
 
+Current focus areas:
+
+- SeedTools development
+- Deterministic signing research
+- Shamir Secret Sharing validation
+- Privacy-first AI tooling
+- Cryptographic infrastructure
+
 ---
 
 ## Contributing

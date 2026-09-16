@@ -1,21 +1,54 @@
 # Security Policy
 
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability in any Krunixbase project, please report it responsibly.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Please do not disclose vulnerabilities publicly before a fix is available.
+
+Contact:
+
+- Email: seedtoolssuite@gmail.com
+- GitHub: https://github.com/Krunixbase
+
+Include the following information when reporting:
+
+- Affected project
+- Vulnerability description
+- Steps to reproduce
+- Impact assessment
+- Suggested mitigation (if available)
+
+---
+
+## Supported Projects
+
+The following projects are currently maintained:
+
+| Project | Status |
+|----------|----------|
+| SeedTools | Active |
+| Shamir App | Active |
+| Deterministic Signing Episodes | Active |
+| Agent AI Lab | Active |
+| Transcribe Assistant | Active |
+
+---
+
+## Security Principles
+
+Krunixbase follows several core security principles:
+
+- Deterministic behavior
+- Auditability
+- Reproducibility
+- Transparency
+- Privacy-first design
+
+---
+
+## Responsible Disclosure
+
+We appreciate responsible disclosure and research that improves the security of our ecosystem.
+
+Please allow reasonable time for investigation and remediation before public disclosure.

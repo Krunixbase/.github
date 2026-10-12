@@ -27,11 +27,11 @@ Deterministic Security Infrastructure
 
 SeedTools provides open-source deterministic security tooling focused on:
 
-• Bitcoin Recovery
-• Self-Custody
-• Cryptographic Key Management
-• Shamir Secret Sharing Validation
-• Deterministic Security Infrastructure
+- Bitcoin Recovery
+- Self-Custody
+- Cryptographic Key Management
+- Shamir Secret Sharing Validation
+- Deterministic Security Infrastructure
 
 https://github.com/krunixbase/seedtools
 •

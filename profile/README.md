@@ -25,8 +25,7 @@ Deterministic Security Infrastructure
 
 ### Deterministic Security Infrastructure
 
-Modular cryptography, Shamir Secret Sharing validation, seed analysis,
-compliance automation, AI tooling and reproducible security systems.
+SeedTools is an open-source deterministic security suite focused on Bitcoin recovery, self-custody and cryptographic key management.
 
 https://github.com/krunixbase/seedtools •
 https://github.com/krunixbase •

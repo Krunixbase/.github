@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Modular cryptography, seed recovery, Shamir Secret Sharing and deterministic security tooling.
+SeedTools is an open-source deterministic security suite focused on Bitcoin recovery, self-custody and cryptographic key management.
 </p>
 
 <h1 align="center">Krunixbase</h1>
@@ -25,7 +25,8 @@ Deterministic Security Infrastructure
 
 ### Deterministic Security Infrastructure
 
-SeedTools is an open-source deterministic security suite focused on Bitcoin recovery, self-custody and cryptographic key management.
+Modular cryptography, Shamir Secret Sharing validation, seed analysis,
+compliance automation, AI tooling and reproducible security systems.
 
 https://github.com/krunixbase/seedtools •
 https://github.com/krunixbase •

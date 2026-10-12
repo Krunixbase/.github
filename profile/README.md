@@ -46,13 +46,11 @@ high-risk users, researchers, organizations and digital sovereignty projects.
 
 Our focus is simple:
 
-- Deterministic cryptographic workflows
-- Shamir Secret Sharing verification
-- Seed phrase recovery and analysis
-- Forensic-grade audit trails
-- Compliance automation
-- Reproducible infrastructure
-- Privacy-first AI tooling
+- Bitcoin recovery
+- Self-custody workflows
+- Cryptographic key management
+- Shamir Secret Sharing validation
+- Deterministic security infrastructure
 
 Every component is designed around transparency, auditability and
 reproducibility.

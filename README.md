@@ -36,8 +36,6 @@ https://github.com/orgs/krunixbase/discussions
 
 ## Mission
 
-## Mission
-
 Krunixbase develops deterministic security infrastructure focused on
 cryptographic recovery, Shamir Secret Sharing validation,
 reproducible workflows and privacy-first tooling.

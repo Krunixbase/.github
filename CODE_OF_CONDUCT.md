@@ -63,7 +63,7 @@ Repeated violations may result in temporary or permanent restrictions on partici
 Questions or concerns may be directed to:
 
 - GitHub: https://github.com/Krunixbase
-- Email: seedtoolssuite@gmail.com
+- Email: krunixbase@gmail.com
 
 ---
 
